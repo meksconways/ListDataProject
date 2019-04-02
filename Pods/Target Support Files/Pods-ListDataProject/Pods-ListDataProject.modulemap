@@ -1,0 +1,6 @@
+framework module Pods_ListDataProject {
+  umbrella header "Pods-ListDataProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
